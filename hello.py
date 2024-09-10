@@ -3,8 +3,10 @@ import path
 import sys
 
 def printme(str):
-    "打印传入的字符到显示设备上"
+    "print intput on the display device"
     print str
     return
 
+def addInteger(a, b):
+    return
 

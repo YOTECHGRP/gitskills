@@ -2,5 +2,5 @@
 
 using namespace std;
 
-int RED = 186;
+int RED = 204;
 int GREEN = 123;

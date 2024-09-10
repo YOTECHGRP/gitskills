@@ -2,4 +2,6 @@
 
 using namespace std;
 
-int RED = 204;
+int RED = 111;
+int GREEN = 100;
+int YELLOW = 222;

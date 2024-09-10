@@ -11,3 +11,6 @@ def printme(str):
 def addInteger(a, b):
     return
 
+
+def addNumber(a, b):
+    return
